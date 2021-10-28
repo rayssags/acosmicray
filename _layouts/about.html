@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<div class="about-col-wrapper">
+  <div class="about-col about-col-1">
+
+    {% if site.github %}
+    <img class="user-picture" src="https://github.com/{{ site.github }}.png" alt="{{ site.author }}">
+    {% endif %}
+
+    <ul class="contact-list">
+      {% if site.email %}
+      <a href="mailto:{{site.email}}" title="Email">
+        <i class="fa fa-fw fa-envelope"></i>
+        <span class="username" style="font-size: 16px">
+          {{site.email}}
+        </span>
+      </a>  
+      {% endif %}
+      {% if site.lattes.url %}
+      <li>
+        {% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+        <a href={{ site.lattes.url }} title="Currículo Lattes">
+          <i class="ai ai-fw ai-lattes"></i>
+          <span class="username">
+            {% if site.lattes.name %}
+            {{site.lattes.name}}
+            {% else %}
+            {{ site.data.academic_i18n.lattes[plang] }}
+            {% endif %}
+          </span>
+        </a>        
+      </li>
+      {% endif %}
+
+      {% if site.curriculum.url %}
+      <li>
+        {% include _icons/file.html curriculum=site.curriculum %}
+      </li>
+      {% endif %}
+    </ul>
+
+    <ul class="contact-list">
+      {% if site.author_website %}
+      <li>
+        {% include _icons/website.html url=site.author_website %}
+      </li>
+      {% endif %}
+    </ul>
+
+    {% include contactlist.html %}
+
+  </div>
+  <article class="about-col about-col-2" itemscope itemtype="http://schema.org/BlogPosting">
+
+    <h1>{{ page.title }}</h1>
+
+    <div class="post-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+
+  </article>
+</div>

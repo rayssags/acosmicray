@@ -1,0 +1,6 @@
+# skills section data
+
+label: Ability
+id : cs
+aspects: Motivation, GiHub, Python, HTML/CSS, LaTex
+percentage: 100, 10, 60, 20, 70

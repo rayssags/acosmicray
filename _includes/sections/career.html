@@ -1,0 +1,6 @@
+{% assign plang = page.lang | default: site.langs[0] | default: "en" %}
+  <div class="timeline" id="timeline">
+    {% for career in site.data.index.careers %}
+          <div class="archive-title"><div class="archive-year"><strong>{{ career.date }}</strong> {{ career.job[plang] }} @ <a href="{{ career.link }}">{{ career.name[plang] }}</a></div></div>
+    {% endfor %}
+  </div>

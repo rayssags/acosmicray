@@ -1,0 +1,19 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name: 
+    pt: Instituto Brasileiro de Economia
+    en: Brazillian Institute of Economics
+  link: https://portal.fgv.br/en/brazilian-institute-economics
+  date: 11/2018 - 11/2019
+  job: 
+    pt: <br> Estágio em programação
+    en: <br> Programming internship
+
+- name: 
+    pt: Universidade Federal do Rio de Janeiro
+    en: Federal University of Rio de Janeiro
+  link: https://ufrj.br/
+  date: 03/2018 - 07/2018
+  job: 
+    pt: <br> Bolsista PIBIC
+    en: <br> <a href="http://www.inpe.br/bolsas/">PIBIC</a> grantee
