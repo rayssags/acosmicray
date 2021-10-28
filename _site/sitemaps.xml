@@ -62,6 +62,44 @@
   
   
   <url>
+    <loc>http://localhost:4000/en/art/</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4000/en/art/"
+                />
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:4000/pt/arte/"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/en/bio/</loc>
     
     
@@ -138,19 +176,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/acosmicray/</loc>
+    <loc>http://localhost:4000/en/resources/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/acosmicray/"
+                href="http://localhost:4000/en/resources/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:4000/pt/acosmicray/"
+                href="http://localhost:4000/pt/indicacoes/"
                 />
     
     
@@ -193,44 +231,6 @@
                 rel="alternate"
                 hreflang="pt"
                 href="http://localhost:4000/pt/projetos/"
-                />
-    
-    
-    
-    <changefreq>weekly</changefreq>
-    
-  </url>
-  
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-
-  
-  
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/en/research</loc>
-    
-    
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4000/en/research"
-                />
-    
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt"
-                href="http://localhost:4000/pt/pesquisa"
                 />
     
     

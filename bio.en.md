@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bio
+title: Long bio
 order: 30
 permalink: en/bio/
 lang: en
