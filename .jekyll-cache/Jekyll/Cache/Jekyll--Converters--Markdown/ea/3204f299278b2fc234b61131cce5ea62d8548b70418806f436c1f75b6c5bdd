@@ -1,0 +1,41 @@
+I"8<p>Abaixo está uma versão super resumida do meu currículo. Informações mais detalhadas (e possivelmente mais atualizadas…) podem ser encontradas no meu Lattes.</p>
+
+<h3 id="educação">Educação</h3>
+
+<div class="timeline" id="timeline">
+    
+          <div class="archive-title bio"><div class="archive-year"><strong>2020 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i></strong> <br /> Mestrado em Astronomia @ <a href="https://ufrj.br/">Observatório do Valongo/UFRJ</a></div></div>
+    
+          <div class="archive-title bio"><div class="archive-year"><strong>2017 - 2019</strong> <br /> Bacharelado em Astronomia @ <a href="https://ufrj.br/">Observatório do Valongo/UFRJ</a></div></div>
+    
+          <div class="archive-title bio"><div class="archive-year"><strong>2014 - 2016</strong> <br /> Bacharelado em Engenharia<br /> de Bioprocessos (interrompido) @ <a href="https://ufrj.br/">Universidade Federal do Rio de Janeiro</a></div></div>
+    
+  </div>
+
+<h3 id="experiência-de-trabalho">Experiência de trabalho</h3>
+
+<div class="timeline" id="timeline">
+    
+          <div class="archive-title"><div class="archive-year"><strong>11/2018 - 11/2019</strong> <br /> Estágio em programação @ <a href="https://portal.fgv.br/en/brazilian-institute-economics">Instituto Brasileiro de Economia</a></div></div>
+    
+          <div class="archive-title"><div class="archive-year"><strong>03/2018 - 07/2018</strong> <br /> Bolsista PIBIC @ <a href="https://ufrj.br/">Universidade Federal do Rio de Janeiro</a></div></div>
+    
+  </div>
+
+<h3 id="habilidades">Habilidades</h3>
+
+<ul>
+  <li>Python</li>
+  <li>LaTex</li>
+  <li>IDL</li>
+</ul>
+
+<h3 id="línguas">Línguas</h3>
+
+<ul>
+  <li>Português (língua materna)</li>
+  <li>Inglês (fluente)</li>
+  <li>Alemão (iniciante)</li>
+  <li>Francês (iniciante)</li>
+</ul>
+:ET

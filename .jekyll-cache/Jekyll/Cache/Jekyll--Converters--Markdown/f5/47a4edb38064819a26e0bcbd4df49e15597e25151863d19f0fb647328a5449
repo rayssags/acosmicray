@@ -1,0 +1,56 @@
+I"}<p>Below is a super short version of my CV. More detailed information (and possibly more updated…) can be found in my Lattes.</p>
+
+<h3 id="education">Education</h3>
+
+<div class="timeline" id="timeline">
+    
+          <div class="archive-title bio"><div class="archive-year"><strong>2020 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i></strong> <br /> MSc in Astronomy @ <a href="https://ufrj.br/">Valongo Observatory/UFRJ</a></div></div>
+    
+          <div class="archive-title bio"><div class="archive-year"><strong>2017 - 2019</strong> <br /> BSc in Astronomy @ <a href="https://ufrj.br/">Valongo Observatory/UFRJ</a></div></div>
+    
+          <div class="archive-title bio"><div class="archive-year"><strong>2014 - 2016</strong> <br /> BSc in Bioprocess<br /> Engineering (interrupted) @ <a href="https://ufrj.br/">Federal University of Rio de Janeiro</a></div></div>
+    
+  </div>
+
+<h3 id="work-experience">Work experience</h3>
+
+<div class="timeline" id="timeline">
+    
+          <div class="archive-title"><div class="archive-year"><strong>11/2018 - 11/2019</strong> <br /> Programming internship @ <a href="https://portal.fgv.br/en/brazilian-institute-economics">Brazillian Institute of Economics</a></div></div>
+    
+          <div class="archive-title"><div class="archive-year"><strong>03/2018 - 07/2018</strong> <br /> <a href="http://www.inpe.br/bolsas/">PIBIC</a> grantee @ <a href="https://ufrj.br/">Federal University of Rio de Janeiro</a></div></div>
+    
+  </div>
+
+<h3 id="skills">Skills</h3>
+
+<ul>
+  <li>Python</li>
+  <li>LaTex</li>
+  <li>IDL</li>
+</ul>
+
+<h3 id="languages">Languages</h3>
+
+<ul>
+  <li>Portuguese (mother-tongue)</li>
+  <li>English (fluent)</li>
+  <li>German (beginner)</li>
+  <li>French (beginner)</li>
+</ul>
+
+<!--
+Talks
+======
+  <ul></ul>
+
+Teaching
+======
+  <ul></ul>
+  
+Service and leadership
+======
+* Currently signed in to 43 different slack teams
+-->
+
+:ET
