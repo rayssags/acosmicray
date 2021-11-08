@@ -9,7 +9,7 @@ layout: default
   <header class="post-header">
   {% endif %}
     {% if page.thumbnail %}
-    <img class="post-thumbnail" src="/assets/{{ page.thumbnail }}" alt="{{ page.title | escape }}"/>
+    <img class="post-thumbnail" src="{{ site.baseurl }}/assets/{{ page.thumbnail }}" alt="{{ page.title | escape }}"/>
     {% endif %}
     <div class="wrapper">
       <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
@@ -36,7 +36,7 @@ layout: default
   <div class="post-author">
     {% if site.github %}
       <a href="{% include _i18n/i18n.html value=site.author_website %}">
-        <img class="user-picture" src="/im/me.jpg" alt="{{ site.author }}">
+        <img class="user-picture" src="{{ site.baseurl }}/im/me.jpg" alt="{{ site.author }}">
       </a>
     {% endif %}
       <ul class="user-info">

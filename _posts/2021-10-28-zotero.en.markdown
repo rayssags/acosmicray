@@ -10,4 +10,4 @@ permalink: /en/topcat/
 
 I wrote a not-so-short tutorial for TOPCAT to help popularize it among Brazilian astronomers. Unfortunately, there's only a version in Portuguese as of now, but I intend to translate it to English someday soon!
 
-<embed src="/pdf/TOPCAT_guide.pdf" width="100%" height="1108">
+<embed src="/acosmicray/pdf/TOPCAT_guide.pdf" width="100%" height="1108">

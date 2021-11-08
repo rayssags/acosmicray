@@ -5,7 +5,7 @@ order: 30
 permalink: pt/bio/
 lang: pt
 ---
-{% include image.html src="/im/valongo.png"
+{% include image.html src="acosmicray/im/valongo.png"
                       caption="O belo Observatório do Valongo."
                       style="float: left; width: 50%; margin-right: 10px; margin-bottom: 0px" %}
 
@@ -15,7 +15,7 @@ Desde pequena, sempre amei ciência. Meus professores do Fundamental reiteravam 
 
 Mesmo depois de alguns semestres, o meu amor por astronomia não passou e decidi persegui-lo como minha carreira. Em 2017 oficialmente me transferi para o curso de Astronomia, no Observatório do Valongo da UFRJ. Foi uma das melhores decisões que tomei na vida e no momento estou no meu primeiro ano de mestrado!
 
-{% include image.html src="/im/bachelorthesis.png"
+{% include image.html src="acosmicray/im/bachelorthesis.png"
                       caption="Dia da defesa do TCC!"
                       style="float: right; width: 50%; margin-left: 10px; margin-bottom: 0px" %}
 
@@ -24,7 +24,7 @@ Durante minha graduação em astronomia desenvolvi uma pesquisa sobre o uso da a
 
 No primeiros períodos na astronomia descobri um inesperado amor e aptidão por programação e tive a oportunidade de estagiar entre 2018 e 2019 na Fundação Getúlio Vargas na área de análise de dados. Sou uma die-hard fan do Python e sempre que posso gosto de aprender coisas novas e polir minhas habilidades.
 
-{% include image.html src="/im/me.png"
+{% include image.html src="acosmicray/im/me.png"
                       caption="Eu, minhas plantas e meu cello."
                       style="float: left; width: 50%; margin-right: 10px; margin-bottom: 0px" %}
 
