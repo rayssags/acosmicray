@@ -82,3 +82,11 @@ defaults:
       path: ""
     values:
       lang: "en"
+
+#cc: by-nc
+#nb_posts_page: 10
+
+# Build settings
+#markdown: redcarpet
+#redcarpet:
+#  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes"]

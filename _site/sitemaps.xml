@@ -195,6 +195,8 @@
     
     <changefreq>weekly</changefreq>
     
+    <priority>1</priority>
+    
   </url>
   
   
@@ -317,22 +319,36 @@
   
   
   <url>
-    <loc>http://localhost:4000/jekyll/update/2020/08/08/welcome-to-jekyll.html</loc>
+    <loc>http://localhost:4000/en/idl/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/jekyll/update/2020/08/08/welcome-to-jekyll.html"
+                href="http://localhost:4000/en/idl/"
+                />
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4000/en/topcat/"
                 />
     
     
     
-    <lastmod>2020-08-08T21:43:46-03:00</lastmod>
+    <lastmod>2021-10-18T21:43:46-03:00</lastmod>
     
     <changefreq>weekly</changefreq>
     
   </url>
+  
+  
+  
+
+  
+  
+  
+  
   
   
   
