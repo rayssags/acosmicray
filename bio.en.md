@@ -16,7 +16,7 @@ Since I was little, I have always loved science. My elementary school teachers f
 
 Even after a few semesters, my love for astronomy did not fade, and I decided to pursue it as my career. In 2017 I transferred to the Astronomy course, at Valongo Observatory.  It was one of the best decisions I made in my life, and at the moment, I am in the first year of my master's degree!
 
-{% include image.html src="acosmicray/im/bachelorthesis.png"
+{% include image.html src="/acosmicray/im/bachelorthesis.png"
                       caption="Bachelor's thesis defense day!"
                       style="float: right; width: 50%; margin-left: 10px; margin-bottom: 0px" %}
 
@@ -24,7 +24,7 @@ During my undergraduate degree in astronomy, I developed research on the use of 
 
 In the first semesters in astronomy, I discovered an unexpected love and aptitude for programming. Fortunately, I had the opportunity to intern between 2018 and 2019 at Fundação Getúlio Vargas in the area of data analysis. I am a big Python enthusiast, and whenever I can, I like to learn new things and polish my skills.
 
-{% include image.html src="acosmicray/im/me.png"
+{% include image.html src="/acosmicray/im/me.png"
                       caption="Me, my house plants and my cello."
                       style="float: left; width: 50%; margin-right: 10px; margin-bottom: 0px" %}
 
