@@ -23,20 +23,21 @@ title:
   en: Rayssa Guimarães Silva
   pt: Rayssa Guimarães Silva
 #pitch: pitch test
-email: rayssa17@astro.ufrj.br
+#email: rayssa17@astro.ufrj.br
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "/acosmicray" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter: acosmicray
 github:  rayssags
-linkedin: rayssags-
-lattes:
-  name: Lattes
-  url: http://lattes.cnpq.br/7456987747174994
-mendeley: rayssa-silva4
-researchgate: Rayssa_Silva4
-orcid: 0000-0003-0634-7710
+#linkedin: rayssags-
+#lattes:
+#  name: Lattes
+#  url: http://lattes.cnpq.br/7456987747174994
+#mendeley: rayssa-silva4
+#researchgate: Rayssa_Silva4
+#orcid: 0000-0003-0634-7710
+steam: acosmicray
 
 name: Rayssa
 author_display: true

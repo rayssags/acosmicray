@@ -28,6 +28,17 @@
   </li>
   {% endif %}
 
+  {% if site.steam%}
+  <li>
+    <a target="_blank" href="https://steamcommunity.com/id/{{ site.twitter }}" title="Steam">
+      <i class="fa fa-fw fa-steam"></i>
+      <span class="username">
+          {{ site.steam}}
+      </span>
+    </a>      
+  </li>
+  {% endif %}
+
   <li>
   {% if site.linkedin%}
     <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin }}" title="LinkedIn">
