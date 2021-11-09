@@ -1,6 +1,6 @@
 ---
 layout: default
-order: 0
+order: 10
 title: Arte
 permalink: /pt/arte/
 lang: pt
