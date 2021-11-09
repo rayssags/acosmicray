@@ -6,7 +6,7 @@ permalink: en/bio/
 lang: en
 ---
 
-{% include image.html src="acosmicray/im/valongo.png"
+{% include image.html src="/acosmicray/im/valongo.png"
                       caption="This is the beautiful Valongo Observatory."
                       style="float: left; width: 50%; margin-right: 10px; margin-bottom: 0px" %}
 
