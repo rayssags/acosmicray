@@ -74,9 +74,9 @@ h4 { font-size: 1.333rem; line-height: 1.5996rem; }
 @media (max-width: 45em) { h4 { font-size: 1.233rem; line-height: 1.7329rem; } }
 
 /** Links */
-a { color: #29989a; text-decoration: none; }
+a { color: #406400; text-decoration: none; }
 
-a:visited { color: #248486; }
+a:visited { color: #304b00; }
 
 a:hover { color: #111; text-decoration: underline; }
 
@@ -149,11 +149,11 @@ form input { font-size: 1.15rem; line-height: 1.84rem; color: #3F3F3F; font-fami
 
 @media (max-width: 45em) { form input { font-size: 0.95rem; line-height: 1.84rem; } }
 
-form input[type=email]:focus { border-color: #29989a; }
+form input[type=email]:focus { border-color: #406400; }
 
 form input[type=submit]:hover { color: #f5f5f5; background: #3F3F3F; }
 
-form input[type=submit]:active { background: #29989a; }
+form input[type=submit]:active { background: #406400; }
 
 /** Site header */
 .site-header { border-top: 5px solid #3F3F3F; border-bottom: 1px solid #bfbfbf; position: relative; }
@@ -178,7 +178,7 @@ form input[type=submit]:active { background: #29989a; }
 
 .site-header .lang-selector:hover .lang:first-child { padding-bottom: 10px; }
 
-.site-header .lang-selector:hover .lang a { color: #29989a; }
+.site-header .lang-selector:hover .lang a { color: #406400; }
 
 .site-header .lang-selector:hover .lang a:hover { text-decoration: none; color: #bfbfbf; }
 
@@ -198,11 +198,11 @@ form input[type=submit]:active { background: #29989a; }
 
 .site-title, .site-title:visited { color: black; }
 
-.site-title:hover { text-decoration: none; border-bottom: 5px #29989a solid; }
+.site-title:hover { text-decoration: none; border-bottom: 5px #406400 solid; }
 
 .site-title b { font-weight: 600; }
 
-.with-pitch:hover { border-bottom: none; color: #29989a; }
+.with-pitch:hover { border-bottom: none; color: #406400; }
 
 .site-pitch { display: inline-block; clear: both; line-height: 60px; padding-left: 10px; color: #3F3F3F; }
 
@@ -230,7 +230,7 @@ form input[type=submit]:active { background: #29989a; }
 
 @media screen and (max-width: 500px) { .site-nav .nav-list li { height: auto; line-height: normal; } .site-nav .nav-list li:nth-child(n+0) { margin: 0; height: auto; padding: 0 10px 0px; } .site-nav .nav-list li a { margin: 0px; padding: 0px; } }
 
-@media screen and (max-width: 500px) { .site-nav { position: absolute; top: 9px; right: 25px; background-color: #f5f5f5; border: 1px solid #bfbfbf; border-radius: 5px; text-align: right; margin-left: 20px; } .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon > svg path { fill: black; } .site-nav .trigger { clear: both; display: none; } .site-nav:hover .trigger { display: block; padding-bottom: 5px; } .site-nav .nav-list .page-link:hover { color: #29989a; } .site-nav .nav-list li:hover { border: none; } .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; } .site-nav .page-link:not(:last-child) { margin-right: 0; } }
+@media screen and (max-width: 500px) { .site-nav { position: absolute; top: 9px; right: 25px; background-color: #f5f5f5; border: 1px solid #bfbfbf; border-radius: 5px; text-align: right; margin-left: 20px; } .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon > svg path { fill: black; } .site-nav .trigger { clear: both; display: none; } .site-nav:hover .trigger { display: block; padding-bottom: 5px; } .site-nav .nav-list .page-link:hover { color: #406400; } .site-nav .nav-list li:hover { border: none; } .site-nav .page-link { display: block; padding: 5px 10px; margin-left: 20px; } .site-nav .page-link:not(:last-child) { margin-right: 0; } }
 
 /** Site footer */
 .site-footer { font-size: 1rem; line-height: 1.6rem; border-top: 1px solid #bfbfbf; color: #3F3F3F; }
@@ -345,7 +345,7 @@ form input[type=submit]:active { background: #29989a; }
 
 @media screen and (max-width: 500px) { .with-thumbnail .wrapper { margin: 0px; } }
 
-.post-title { margin-top: 0; color: #29989a; }
+.post-title { margin-top: 0; color: #406400; }
 
 .post-summary { margin-top: 0; }
 
@@ -426,7 +426,7 @@ form input[type=submit]:active { background: #29989a; }
 
 .msg-404 { margin-bottom: 50px; }
 
-.msg-404 .title { font-size: 2.941rem; line-height: 3.2351rem; font-family: "Open Sans", sans-serif; color: #29989a; }
+.msg-404 .title { font-size: 2.941rem; line-height: 3.2351rem; font-family: "Open Sans", sans-serif; color: #406400; }
 
 @media (max-width: 75em) { .msg-404 .title { font-size: 2.441rem; line-height: 2.6851rem; } }
 
