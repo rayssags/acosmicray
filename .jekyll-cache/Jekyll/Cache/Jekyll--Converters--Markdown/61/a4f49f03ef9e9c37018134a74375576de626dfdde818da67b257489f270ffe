@@ -1,0 +1,17 @@
+I"x<p>I wrote a code in Python to do basic data reduction of astronomical data, it corrects bias and flat. I intend to upgrade this one day to use purely Astropy libraries. Unfortunately, there’s only a version in Portuguese as of now, but I intend to translate it to English someday soon, probably when I get around to polishing the re-written code.</p>
+
+<p><a href="https://github.com/rayssags/pipeline-project">
+         <img alt="pipeline-project" src="https://opengraph.githubassets.com/aff85904a708d9aca23096b7fe9a8fae916edce20678f5fb4983862b9b270cd1/rayssags/pipeline-project" width="100%" />
+      </a></p>
+
+<body>
+  <div id="repo1"></div>
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script src="RepoJS/repo.js"><script>
+  <script type="javascript">
+    $('#repo1').repo({ user: 'darcyclarke', name: 'Repo.js' });
+  </script>
+</body>
+
+:ET

@@ -6,7 +6,10 @@ permalink: /en/art/
 lang: en
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tlJJZrriAVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="width:40%; align:left; float:left; padding-right:10px">
+<div class="aspect-ratio">
+<iframe align="left" src="https://www.youtube.com/embed/tlJJZrriAVI"></iframe>
+</div></div>This is a very interesting project. You can find more about the lyrics (mainly based on poetry) [here](https://soundcloud.com/mehdi-aminian)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1JYjcwW9MmM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -17,3 +20,9 @@ lang: en
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ACfwgBqPN8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aUeysGoPFTk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+![image](/acosmicray/im/me.jpg){: style="float: left" width="250" height="315"}
+<br>
+Some text.
+

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Pipeline project (in Portuguese)"
+date:   2019-10-18 21:43:46 -0300
+categories: software
+lang: en
+thumbnail: Observatorio_do_Valongo_em_julho_de_2016.jpg
+permalink: /en/pipeline/
+---
+
+I wrote a code in Python to do basic data reduction of astronomical data, it corrects bias and flat. I intend to upgrade this one day to use purely Astropy libraries. Unfortunately, there's only a version in Portuguese as of now, but I intend to translate it to English someday soon, probably when I get around to polishing the re-written code.
+
+<a href="https://github.com/rayssags/pipeline-project">
+         <img alt="pipeline-project" src="https://opengraph.githubassets.com/aff85904a708d9aca23096b7fe9a8fae916edce20678f5fb4983862b9b270cd1/rayssags/pipeline-project" width="100%">
+</a>
+

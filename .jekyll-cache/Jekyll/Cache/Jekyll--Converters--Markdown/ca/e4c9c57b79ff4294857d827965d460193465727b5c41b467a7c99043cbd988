@@ -1,0 +1,2 @@
+I"b<p>I wrote a code in Python to do basic data reduction of astronomical data, it corrects bias and flat. I intend to upgrade this one day to use purely Astropy libraries. Unfortunately, there’s only a version in Portuguese as of now, but I intend to translate it to English someday soon, probably when I get around to polishing the re-written code.</p>
+:ET
