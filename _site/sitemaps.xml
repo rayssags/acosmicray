@@ -24,19 +24,19 @@
   
   
   <url>
-    <loc>//en/cv/</loc>
+    <loc>http://localhost:4000/en/cv/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//en/cv/"
+                href="http://localhost:4000/en/cv/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="//pt/cv/"
+                href="http://localhost:4000/pt/cv/"
                 />
     
     
@@ -62,19 +62,19 @@
   
   
   <url>
-    <loc>//en/art/</loc>
+    <loc>http://localhost:4000/en/art/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//en/art/"
+                href="http://localhost:4000/en/art/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="//pt/arte/"
+                href="http://localhost:4000/pt/arte/"
                 />
     
     
@@ -100,19 +100,19 @@
   
   
   <url>
-    <loc>//en/bio/</loc>
+    <loc>http://localhost:4000/en/bio/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//en/bio/"
+                href="http://localhost:4000/en/bio/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="//pt/bio/"
+                href="http://localhost:4000/pt/bio/"
                 />
     
     
@@ -138,19 +138,19 @@
   
   
   <url>
-    <loc>//</loc>
+    <loc>http://localhost:4000/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//"
+                href="http://localhost:4000/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="//pt/"
+                href="http://localhost:4000/pt/"
                 />
     
     
@@ -176,13 +176,13 @@
   
   
   <url>
-    <loc>//en/resources/</loc>
+    <loc>http://localhost:4000/en/resources/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//en/resources/"
+                href="http://localhost:4000/en/resources/"
                 />
     
     
@@ -206,19 +206,19 @@
   
   
   <url>
-    <loc>//en/projects/</loc>
+    <loc>http://localhost:4000/en/projects/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//en/projects/"
+                href="http://localhost:4000/en/projects/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="//pt/projetos/"
+                href="http://localhost:4000/pt/projetos/"
                 />
     
     
@@ -246,13 +246,13 @@
   
   
   <url>
-    <loc>//redirects.json</loc>
+    <loc>http://localhost:4000/redirects.json</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//redirects.json"
+                href="http://localhost:4000/redirects.json"
                 />
     
     
@@ -272,19 +272,19 @@
   
   
   <url>
-    <loc>//assets/main.css.map</loc>
+    <loc>http://localhost:4000/assets/main.css.map</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//assets/main.css"
+                href="http://localhost:4000/assets/main.css"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//assets/main.css.map"
+                href="http://localhost:4000/assets/main.css.map"
                 />
     
     
@@ -305,13 +305,13 @@
   
   
   <url>
-    <loc>//en/idl/</loc>
+    <loc>http://localhost:4000/en/idl/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//en/idl/"
+                href="http://localhost:4000/en/idl/"
                 />
     
     
@@ -331,13 +331,13 @@
   
   
   <url>
-    <loc>//en/topcat/</loc>
+    <loc>http://localhost:4000/en/topcat/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//en/topcat/"
+                href="http://localhost:4000/en/topcat/"
                 />
     
     
@@ -357,25 +357,25 @@
   
   
   <url>
-    <loc>//en/pipeline/</loc>
+    <loc>http://localhost:4000/en/pipeline/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//en/idl/"
+                href="http://localhost:4000/en/idl/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//en/topcat/"
+                href="http://localhost:4000/en/topcat/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//en/pipeline/"
+                href="http://localhost:4000/en/pipeline/"
                 />
     
     
