@@ -16,4 +16,5 @@
   {% endif %}
 {% endcapture %}
 
-<a class="{{ title_class }}" href="{% include _i18n/link.html path="index" %}">{{ title }}</a>
+{% assign objects = site.baseurl %}
+<a class="{{ title_class }}" href="{{ objects }}">{{ title }}</a>
