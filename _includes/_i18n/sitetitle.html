@@ -16,5 +16,4 @@
   {% endif %}
 {% endcapture %}
 
-{% assign objects = site.baseurl %}
-<a class="{{ title_class }}" href="{{ objects }}">{{ title }}</a>
+<a class="{{ title_class }}" href="{{ site.baseurl }}/{{ page.lang }}">{{ title }}</a>
