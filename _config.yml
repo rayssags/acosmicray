@@ -44,8 +44,7 @@ author_display: true
 shortbio: 
 
 # Build settings
-#theme: academic
-remote_theme: rayssags/acosmicray
+theme: academic
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
