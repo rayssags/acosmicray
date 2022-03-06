@@ -24,13 +24,127 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/</loc>
+    <loc>http://localhost:4000/en/cv/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/"
+                href="http://localhost:4000/en/cv/"
+                />
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:4000/pt/cv/"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/art/</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4000/en/art/"
+                />
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:4000/pt/arte/"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/bio/</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4000/en/bio/"
+                />
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:4000/pt/bio/"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4000/"
                 />
     
     <xhtml:link
@@ -61,6 +175,84 @@
   
 
   
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/projects/</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4000/en/projects/"
+                />
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:4000/pt/projetos/"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/resources/</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4000/en/resources/"
+                />
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:4000/pt/resources/"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+    <priority>1</priority>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
 
   
   
@@ -80,32 +272,6 @@
     
     
     <changefreq>weekly</changefreq>
-    
-  </url>
-  
-  
-  
-
-  
-  
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/</loc>
-    
-    
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4000/"
-                />
-    
-    
-    
-    <changefreq>weekly</changefreq>
-    
-    <priority>1</priority>
     
   </url>
   
