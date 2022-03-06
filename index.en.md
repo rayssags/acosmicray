@@ -10,4 +10,4 @@ permalink: /en/
 redir_to: /
 lang: en
 ---
-Hi there! This is the blog counterpart of my [professional website](https://rayssags.github.io/). Here I share miscellaneous info and resources on topics like astronomy, productivity, and art. (check)
+Hi there! This is the blog counterpart of my [professional website](https://rayssags.github.io/). Here I share miscellaneous info and resources on topics like astronomy, productivity, and art.
