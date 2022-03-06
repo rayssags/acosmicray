@@ -7,7 +7,8 @@ title: Rayssa Silva
 seo: 
     title: Rayssa Silva, astronomer
 permalink: /
-redir_to: /en/
+redirect_from: /en/
 lang: en
 ---
 Hi there! This is the blog counterpart of my [professional website](https://rayssags.github.io/). Here I share miscellaneous info and resources on topics like astronomy, productivity, and art.
+
