@@ -33,7 +33,7 @@
   {% endif %}
 
   {% if file.path contains "favicon-32x32.png" %}
-  <link rel="icon" type="image/png" href="{{ file.path }}" sizes="32x32">
+  <link rel="icon" type="image/png" href="{{ site.baseurl }}{{ file.path }}" sizes="32x32">
   {% endif %}
 
   {% if file.path contains "manifest.json" %}
