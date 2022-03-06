@@ -138,13 +138,13 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/</loc>
+    <loc>http://localhost:4000/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/"
+                href="http://localhost:4000/"
                 />
     
     <xhtml:link
@@ -258,32 +258,6 @@
     
     
     <changefreq>weekly</changefreq>
-    
-  </url>
-  
-  
-  
-
-  
-  
-  
-  
-  
-  <url>
-    <loc>http://localhost:4000/</loc>
-    
-    
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:4000/"
-                />
-    
-    
-    
-    <changefreq>weekly</changefreq>
-    
-    <priority>1</priority>
     
   </url>
   
