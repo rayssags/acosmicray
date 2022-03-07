@@ -1,5 +1,44 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:800|PT+Serif");
+iframe { aspect-ratio: 16 / 9; }
+
+/*---------------------------- Two column layout stuff ---------------------------*/
+/* Columns */
+article .begin-video ~ p, article .begin-video ~ iframe { width: 49.5%; }
+
+/* Left Column */
+article .begin-video ~ iframe { float: left; box-sizing: border-box; padding-right: 1rem; clear: left; }
+
+/* Right Column */
+article .begin-video ~ p { float: right; margin-bottom: 1rem; clear: both; }
+
+/* Reset */
+article .end-video ~ p, article .end-video ~ iframe { width: auto; float: none; clear: none; }
+
+.end-video { clear: both; }
+
+@media print, screen and (max-width: 580px) { /*---------------------------- Two column layout media ---------------------------*/
+  article .begin-video ~ p, article .begin-video ~ iframe { width: 100%; float: none; clear: none; } }
+/*---------------------------- Two column layout stuff ---------------------------*/
+/* Main Section Headings and sub headings */
+article .begin-examples ~ h2, article .begin-examples ~ h2 + p { width: 100%; clear: both; }
+
+/* Columns */
+article .begin-examples ~ h3, article .begin-examples ~ p, article .begin-examples ~ .highlight { width: 50%; }
+
+/* Left Column */
+article .begin-examples ~ h3, article .begin-examples ~ p { float: left; box-sizing: border-box; padding-right: 0rem; clear: both; }
+
+/* Right Column */
+article .begin-examples ~ .highlight { float: right; clear: right; margin-bottom: 1rem; }
+
+/* Reset */
+article .end-examples ~ p, article .end-examples ~ h3, article .end-examples ~ .highlight { width: auto; float: none; clear: none; }
+
+.end-examples { clear: both; }
+
+@media print, screen and (max-width: 580px) { /*---------------------------- Two column layout media ---------------------------*/
+  article .begin-examples ~ h3, article .begin-examples ~ p, article .begin-examples ~ .highlight { width: 100%; float: none; clear: none; } }
 /** Reset some basic elements */
 body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, hr, dl, dd, ol, ul, figure { margin: 0; padding: 0; }
 
@@ -323,12 +362,6 @@ form input[type=submit]:active { background: #406400; }
 .no-version { cursor: default; }
 
 .invisible { display: none; }
-
-iframe { width: 100%; }
-
-.aspect-ratio { position: relative; width: 100%; height: 0; padding-bottom: 56.25%; }
-
-.aspect-ratio iframe { position: absolute; width: 100%; height: 100%; left: 0; top: 0; }
 
 .highlight .hll { background-color: #ffffcc; }
 
