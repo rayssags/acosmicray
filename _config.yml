@@ -48,6 +48,7 @@ remote_theme: rayssags/acosmicray
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - gem 'jekyll-toc'
 
 # Exclude from processing.
 # The following items will not be processed, by default.

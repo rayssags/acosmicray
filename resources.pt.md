@@ -4,6 +4,7 @@ order: 0
 title: Indicações
 permalink: /pt/resources/
 lang: pt
+toc: true
 ---
 <style>
 figure {
@@ -15,9 +16,12 @@ margin-bottom: -5px
 }
 </style>
 
+
+
 Minha ideia com essa página é compilar algumas indicações de diferentes tipos (software, dicas de produtividade, divulgação de oportunidades e eventos, etc...) e escrever um pouco mais extensamente sobre o que eu uso no meu dia-a-dia de estudo e pesquisa.
 
 _Disclaimer_: em geral o que eu indico aqui é do ponto de vista de uma pessoa que usa Linux e Android e tem uma preferência pessoal por softwares livres e de código aberto (também conhecidos como FOSS) gratuitos ou com algum tipo de desconto estudantil. Existem diversas alternativas e você pode procurar por elas no [AlternativeTo](https://alternativeto.net/).
+
 
 # Organizadores de fontes
 
@@ -123,3 +127,28 @@ Curso sobre ISM
 Planejamento de observação
 Site da eso
 Site dos gráficos
+
+<style>
+    html { scroll-behavior: smooth;}
+    /*Floating Back-To-Top Button*/
+    #myBtn {
+        position: fixed;
+        bottom: 10px;
+        width: 40px;
+        height: 40px;
+        right: 18.5%;
+        left: 77.25%;
+        font-size: 20px;
+        background-color: gray;
+        padding:0 0 0 0;
+        border-radius: 20px;
+        transform: rotate(-90deg);
+
+    }
+/*On Hover Color Change*/
+    #myBtn:hover {
+        background-color: #7dbbf1;
+    }
+</style>
+
+<button id="myBtn"><a href="#" >&#10161;</a></button>
