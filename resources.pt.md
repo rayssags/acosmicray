@@ -10,7 +10,7 @@ Minha ideia com essa página é compilar algumas indicações de diferentes tipo
 
 Quando eu digo "bibliografia", não é apenas sobre artigos ou fontes textuiais, estou falando também de imagens, gráficos, sites, vídeos e tudo mais que você possa imaginar.
 
-{% include image.html src="/acosmicray/im/Zotero.svg"
+{% include image.html src="{{ site.baseurl }}/im/Zotero.svg"
                       caption="Zotero"
                       style="float: left; width: 20%; margin-left: 10px; margin-bottom: 0px" %}
 Zotero
