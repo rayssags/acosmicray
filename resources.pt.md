@@ -8,14 +8,33 @@ lang: pt
 Minha ideia com essa página é compilar algumas indicações de diferentes tipos e escrever um pouco mais extensamente sobre as que eu uso no meu dia-a-dia de estudo e pesquisa.
 # Organizadores de bibliografia/fontes
 
-Quando eu digo "bibliografia", não é apenas sobre artigos ou fontes textuiais, estou falando também de imagens, gráficos, sites, vídeos e tudo mais que você possa imaginar.
+Quando eu digo "bibliografia", não é apenas sobre artigos ou fontes textuiais, estou falando também de imagens, gráficos, sites, vídeos e tudo mais que você possa imaginar. O meu quarteto fantástico pessoal é o seguinte:
 
-{% include image.html src="{{ site.baseurl }}/im/Zotero.svg"
-                      caption="Zotero"
+{% include image.html src="[/acosmicray/im/Zotero.svg](https://commons.wikimedia.org/wiki/File:Zotero_logo.svg)"
+                      caption=""
                       style="float: left; width: 20%; margin-left: 10px; margin-bottom: 0px" %}
 Zotero
 
+{% include image.html src="(https://commons.wikimedia.org/wiki/File:Calibre_logo_3.png)"
+                      caption=""
+                      style="float: left; width: 20%; margin-left: 10px; margin-bottom: 0px" %}
 
+Calibre
+
+{% include image.html src="https://commons.wikimedia.org/wiki/File:Calibre_logo_3.png"
+                      caption=""
+                      style="float: left; width: 20%; margin-left: 10px; margin-bottom: 0px" %}
+
+
+Tropy
+
+
+{% include image.html src="https://commons.wikimedia.org/wiki/File:Notion_app_logo.png"
+                      caption=""
+                      style="float: left; width: 20%; margin-left: 10px; margin-bottom: 0px" %}
+
+
+Notion
 
 
 
