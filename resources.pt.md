@@ -40,7 +40,10 @@ margin-bottom: -5px
 
 </style>
 
-
+<p style="display: inline; font-size: medium; font-style: italic">
+{{ site.data.academic_i18n.lastupdated[page.lang]}}{% include _i18n/date.html date=page.last_modified_at %}
+</p>
+<b>
 
 Minha ideia com essa página é compilar algumas indicações de diferentes tipos (software, dicas de produtividade, divulgação de oportunidades e eventos, etc...) e escrever um pouco mais extensamente sobre o que eu uso no meu dia-a-dia de estudo e pesquisa.
 
@@ -84,6 +87,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Bom, escrever códigos ainda é escrever né... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+## MathPix
+
+## dpScreenOCR
 
 # Produtividade e organização
 ## Notion

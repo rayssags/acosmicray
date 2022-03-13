@@ -5,14 +5,14 @@ months:
         "julho", "agosto", "setembro", "outubro", "novembro", "dezembro" ]
   fr: ["janvier", "février", "mars", "avril", "mai", "juin",
        "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
-  dateformat:
+dateformat:
   pt: "%e de %B de %Y"
   fr: "%e %B %Y"
   en: "%b %-d, %Y"
 lastupdated:
-  pt: "última atualização em"
-  fr: "mis à jour le"
-  en: "last updated on"
+  pt: "Última atualização em"
+  fr: "Mis à jour le"
+  en: "Last updated on"
 revhistory:
   pt: "Ver o histórico de revisão desta postagem"
   fr: "Voir l'historique des révisions de ce billet"

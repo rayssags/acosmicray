@@ -4,7 +4,7 @@ title:  TexStudio + GitHub + Overleaf pra projetos de escrita
 date:   2022-03-10 21:43:46 -0300
 categories: software
 lang: pt
-thumbnail: Observatorio_do_Valongo_em_julho_de_2016.jpg
+thumbnail: "test2.png"
 permalink: /pt/escrita/
 ---
 
