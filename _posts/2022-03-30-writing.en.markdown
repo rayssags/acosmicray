@@ -1,0 +1,11 @@
+---
+layout: post
+title:  Writing
+date:   2022-03-10 21:43:46 -0300
+categories: software
+lang: en
+thumbnail: Observatorio_do_Valongo_em_julho_de_2016.jpg
+permalink: /en/writing/
+---
+
+WIP

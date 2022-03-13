@@ -14,6 +14,30 @@ margin-right: 15px;
 margin-top: 10px;
 margin-bottom: -5px    
 }
+
+    /*Floating Back-To-Top Button*/
+    #myBtn {
+        position: fixed;
+        bottom: 10px;
+        width: 40px;
+        height: 40px;
+        right: 18.5%;
+        left: 77.25%;
+        text-align: center;
+        font-size: 26px;
+        background-color: #D2D6CC;
+        padding:0 0 0 0;
+        border-radius: 20px;
+        border-color: transparent;
+        transform: rotate(-90deg);
+        color: #f5f5f5;
+        weight: bold;
+    }
+/*On Hover Color Change*/
+    #myBtn:hover {
+        background-color: #D2D6CC;
+    }
+
 </style>
 
 
@@ -27,6 +51,7 @@ _Disclaimer_: em geral o que eu indico aqui é do ponto de vista de uma pessoa q
 
 Quando eu digo "bibliografia", não é apenas sobre artigos ou fontes textuiais, estou falando também de imagens, gráficos, sites, vídeos e tudo mais que você possa imaginar. O meu "Big Three" pessoal é o seguinte:
 ## Zotero
+
 {% include image.html src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Zotero_logo.svg/320px-Zotero_logo.svg.png" %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -71,84 +96,40 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Toggl
 
 
+# Astroindicações
 
-
-
-
+Pra página não ficar muito longa, vou colocar as indicações específicas de Astronomia [aqui](https://rayssags.github.io/acosmicray/pt/astroindicacoes/).
 
 Zotero notes + Tropy
+
 Notero
+
 Zutilo
+
 Zotfile (extract annotations)
+
 Foxit
+
 Xodo
+
 Okular
+
 Xournal
+
 GitHub
+
 GitHub Student Pack
+
 Canva
+
+WebPlotDigitizer
+
 Latex -> TexMaker ou Studio
-Overleaf <-> GitHub
-(pronto, o seu repositório local vai estar sincronizado com o github e salvo intermediariamente no github
-Git, Python, SQL: Software carpentry
-TOPCAT: eu + vídeo do Mark
-IDL-ish eu também
-Aladin
-SIMBAD
-TOPCAT
-Escola da sab
-Material da escola do OV espanhol
-Arquivos
-SHA, IRSA, CASSIS -> tutoriais no YouTube
-SDSS
-Chandra
-MAST
-Sites;
-Astrobetter
-Astrobites
-Gradcafe
-Astrophysist girl
-Oportunidades
-IMPRS
-ESO
-NOVA
-LEAPS
-Programas
-R$0 pra aplicar:
-Sites úteis
-Acronyms
-Aas
-Canadian
-O da França
-Quer aprender mais sobre algo:
-Maciel
-Gastão
-Curso sobre ISM
-Planejamento de observação
-Site da eso
-Site dos gráficos
 
-<style>
-    html { scroll-behavior: smooth;}
-    /*Floating Back-To-Top Button*/
-    #myBtn {
-        position: fixed;
-        bottom: 10px;
-        width: 40px;
-        height: 40px;
-        right: 18.5%;
-        left: 77.25%;
-        font-size: 20px;
-        background-color: gray;
-        padding:0 0 0 0;
-        border-radius: 20px;
-        transform: rotate(-90deg);
+Overleaf <-> GitHub (pronto, o seu repositório local vai estar sincronizado com o github e salvo intermediariamente no github
 
-    }
-/*On Hover Color Change*/
-    #myBtn:hover {
-        background-color: #7dbbf1;
-    }
-</style>
+Git, Python, SQL: [Software Carpentry](https://software-carpentry.org/lessons/)
 
-<button id="myBtn"><a href="#" >&#10161;</a></button>
+[Software Carpentry para Astronomia (beta)](https://datacarpentry.org/astronomy-python/)
+
+<button id="myBtn"><a href="#"><b>&#10161;</b></a></button>

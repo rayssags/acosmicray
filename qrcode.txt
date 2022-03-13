@@ -1,0 +1,42 @@
+
+<script type="text/javascript" src="https://unpkg.com/qr-code-styling@1.5.0/lib/qr-code-styling.js"></script>
+
+<div id="canvas"></div>
+<script type="text/javascript">
+
+    const qrCode = new QRCodeStyling({
+        width: 400,
+        height: 400,
+        type: "svg",
+        data: "https://bit.ly/raygms",
+        image: null,
+        qrOptions:{
+            errorCorrectionLevel: "M"
+        },
+        dotsOptions: {
+            color: "#6a1a4c",
+            type: "extra-rounded"
+        },
+        cornersSquareOptions: {
+            type: "dot"
+        },
+        backgroundOptions: {
+            color: "#e9ebee",
+        },
+        imageOptions: {
+            crossOrigin: "anonymous",
+            margin: 20
+        }
+    });
+
+    qrCode.append(document.getElementById("canvas"));
+    qrCode.download({ name: "qr", extension: "svg" });
+</script>
+
+"dotsOptionsHelper":{"colorType":{"single":true,"gradient":false},"gradient":{"linear":true,"radial":false,"color1":"#6a1a4c","color2":"#6a1a4c","rotation":"0"}},
+
+"cornersSquareOptions":{"type":"extra-rounded","color":"#000000"},
+
+"cornersSquareOptionsHelper":{"colorType":{"single":true,"gradient":false},"gradient":{"linear":true,"radial":false,"color1":"#000000","color2":"#000000","rotation":"0"}},
+
+"cornersDotOptions":{"type":"","color":"#000000"}}

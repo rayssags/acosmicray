@@ -62,6 +62,44 @@
   
   
   <url>
+    <loc>http://localhost:4000/en/archive/</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4000/en/archive/"
+                />
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:4000/pt/arquivo/"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/en/art/</loc>
     
     
@@ -80,6 +118,46 @@
     
     
     <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/en/resources/</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4000/en/resources/"
+                />
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:4000/pt/astroindicacoes/"
+                />
+    
+    
+    
+    <changefreq>weekly</changefreq>
+    
+    <priority>1</priority>
     
   </url>
   
@@ -230,6 +308,18 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
+                href="http://localhost:4000/pt/astroindicacoes/"
+                />
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4000/en/resources/"
+                />
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
                 href="http://localhost:4000/pt/resources/"
                 />
     
@@ -312,6 +402,46 @@
 
 
         
+
+  
+  
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/pt/escrita/</loc>
+    
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt"
+                href="http://localhost:4000/pt/escrita/"
+                />
+    
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:4000/en/writing/"
+                />
+    
+    
+    
+    <lastmod>2022-03-10T21:43:46-03:00</lastmod>
+    
+    <changefreq>weekly</changefreq>
+    
+  </url>
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
 
   
   

@@ -1,4 +1,6 @@
 months:
+  en: ["january", "february", "march", "april", "may", "june",
+        "jule", "august", "september", "october", "november", "december" ]
   pt: ["janeiro", "fevereiro", "março", "abril", "maio", "junho",
         "julho", "agosto", "setembro", "outubro", "novembro", "dezembro" ]
   fr: ["janvier", "février", "mars", "avril", "mai", "juin",
