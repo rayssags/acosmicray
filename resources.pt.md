@@ -10,9 +10,15 @@ toc: true
 figure {
 float: left;
 width: 120px;
+object-fit: cover;
 margin-right: 15px;
 margin-top: 10px;
 margin-bottom: -5px    
+}
+
+figure > img {
+width: 100%;
+object-fit: contain
 }
 
     /*Floating Back-To-Top Button*/
@@ -87,10 +93,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Bom, escrever códigos ainda é escrever né... Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-## MathPix
+## LaTeX OCR e Mathpix
+
+{% include image.html src="https://raw.githubusercontent.com/rayssags/LaTeX-OCR/fd271d25f9aaac6225dfd3e6460a2cfc07ebca96/resources/icon.svg" %}
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+{% include image.html src="https://mathpix.com/images/logo/image-logo.png" %}
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+<p style="text-align: center">
+<img src="https://user-images.githubusercontent.com/55287601/117812740-77b7b780-b262-11eb-81f6-fc19766ae2ae.gif" style="width: 50%" caption="">
+</p>
+
 
 ## dpScreenOCR
 
+{% include image.html src="https://danpla.github.io/dpscreenocr/img/dpscreenocr.svg" %}
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 # Produtividade e organização
 ## Notion
 
