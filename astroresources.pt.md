@@ -60,7 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     - Escola da sab
     - Material da escola do OV espanhol
 
-## Arquivos
+## Arquivos e bases de dados
 
 - SIMBAD
 - SHA
@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 - SDSS
 - Chandra
 - MAST
-
+- NED e a [busca por múltiplos alvos](https://ned.ipac.caltech.edu/forms/gmd.html)
 
 Sites;
 
