@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Long bio
+title: Bio
 order: 30
 permalink: pt/bio/
 lang: pt
+invisible: true
+
 ---
 {% include image.html src="/acosmicray/im/valongo.png"
                       caption="O belo Observatório do Valongo."

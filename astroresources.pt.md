@@ -2,9 +2,11 @@
 layout: page
 order: 0
 title: Astroindicações
-permalink: /pt/astroindicacoes/
+permalink: /pt/astroresources/
 lang: pt
 toc: true
+invisible: true
+
 ---
 <style>
 figure {

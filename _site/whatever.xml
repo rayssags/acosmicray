@@ -90,7 +90,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/en/resources/</loc>
+        <loc>http://localhost:4000/en/astroresources/</loc>
     </url>
     
     
@@ -98,7 +98,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/pt/astroindicacoes/</loc>
+        <loc>http://localhost:4000/pt/astroresources/</loc>
     </url>
     
     
