@@ -46,6 +46,8 @@ object-fit: contain
 
 </style>
 
+{% include toc.html html=content %}
+
 <p style="display: inline; font-size: medium; font-style: italic">
 {{ site.data.academic_i18n.lastupdated[page.lang]}}{% include _i18n/date.html date=page.last_modified_at %}
 </p>
