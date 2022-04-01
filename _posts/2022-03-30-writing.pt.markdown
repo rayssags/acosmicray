@@ -1,0 +1,33 @@
+---
+layout: post
+title:  TexStudio + GitHub + Overleaf pra projetos de escrita
+date:   2022-03-10 21:43:46 -0300
+categories: software
+lang: pt
+thumbnail: "test2.png"
+permalink: /pt/escrita/
+---
+
+Você não aguenta mais perder algo que escreveu quando o Overleaf desconecta, mas não quer perder a facilidade de trabalhar em conjunto e ter um histórico de edição? Essa dica é pra você.
+
+{% include image.html src="https://imgs.xkcd.com/comics/git.png" style="float:left; width: 33%; margin-right: 15px; margin-top: 10px margin-bottom: -5px"   %}
+
+Por trás de todo histórico o que realmente está acontecendo é algum tipo de controle de versionamento do arquivo — ou seja, você tem acesso a diferentes versões do arquivo pré estado atual. O grande ponto é que isso é muito popular em editores de texto como Word, Google Docs, mas em geral compiladores locais de $\LaTeX$ não tem essa característica, o que é um ponto negativo pra várias pessoas. Entretanto existe uma maneira muito poderosa de controlar as versões (não só de arquivos de texto!): o Git.
+
+
+Se você não sabe do que eu tô falando, recomendo de uma olhada nesse texto https://towardsdatascience.com/git-help-all-2d0bb0c31483.
+
+O que eu faço é bem simples, crio um projeto no github e clonou ele pro meu computador. A partir daí vou trabalhando e salvando a cada modificação significativa no trabalho.
+
+{% include image.html src="/acosmicray/im/overleaf_github.png" style="float:right; width: 25%; margin-left: 15px; margin-top: 10px margin-bottom: -5px"   %}
+A coisa legal é que o Overleaf tem uma opção de importar do github, então se você é uma pessoa que (como eu) gosta de usar um editor local no computador, esse é um setup que ainda permite que você colabore com outras pessoas nos manuscritos do trabalho.\
+<br>
+<br>
+
+O resto é com você ...
+
+<p style="text-align: center">
+<img src="https://imgs.xkcd.com/comics/git_commit.png" style="width: 50%" caption="">
+</p>
+
+Mas, sério, só não seja essa pessoa.

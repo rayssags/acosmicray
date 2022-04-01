@@ -48,6 +48,12 @@ remote_theme: rayssags/acosmicray
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
+  - gem 'jekyll-toc'
+  - jekyll-last-modified-at
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%d-%b-%y'
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -83,6 +89,11 @@ defaults:
       path: ""
     values:
       lang: "en"
+  - scope:
+      path: "_posts"
+    values:
+      thumbnail: "Observatorio_do_Valongo_em_julho_de_2016.jpg"
+
 
 #cc: by-nc
 #nb_posts_page: 10

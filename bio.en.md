@@ -1,9 +1,11 @@
 ---
 layout: page
-title: Long bio
+title: Bio
 order: 30
 permalink: en/bio/
 lang: en
+invisible: true
+
 ---
 
 {% include image.html src="/acosmicray/im/valongo.png"
