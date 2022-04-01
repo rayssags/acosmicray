@@ -2,7 +2,7 @@
 layout: page
 order: 0
 title: Astroindicações
-permalink: /pt/astroresources/
+permalink: /pt/astrorecs/
 lang: pt
 toc: true
 invisible: true

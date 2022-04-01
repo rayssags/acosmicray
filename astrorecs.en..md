@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: page
 order: 0
 title: Resources
-permalink: /en/astroresources/
+permalink: /en/astrorecs/
 lang: en
 invisible: true
 
