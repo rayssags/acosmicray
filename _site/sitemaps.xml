@@ -24,19 +24,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/cv/</loc>
+    <loc>https://rayssags.github.io/en/cv/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/cv/"
+                href="https://rayssags.github.io/en/cv/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:4000/pt/cv/"
+                href="https://rayssags.github.io/pt/cv/"
                 />
     
     
@@ -62,19 +62,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/archive/</loc>
+    <loc>https://rayssags.github.io/en/archive/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/archive/"
+                href="https://rayssags.github.io/en/archive/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:4000/pt/arquivo/"
+                href="https://rayssags.github.io/pt/arquivo/"
                 />
     
     
@@ -100,19 +100,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/art/</loc>
+    <loc>https://rayssags.github.io/en/art/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/art/"
+                href="https://rayssags.github.io/en/art/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:4000/pt/arte/"
+                href="https://rayssags.github.io/pt/arte/"
                 />
     
     
@@ -138,19 +138,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/astrorecs/</loc>
+    <loc>https://rayssags.github.io/en/astrorecs/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/astrorecs/"
+                href="https://rayssags.github.io/en/astrorecs/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:4000/pt/astrorecs/"
+                href="https://rayssags.github.io/pt/astrorecs/"
                 />
     
     
@@ -176,19 +176,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/bio/</loc>
+    <loc>https://rayssags.github.io/en/bio/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/bio/"
+                href="https://rayssags.github.io/en/bio/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:4000/pt/bio/"
+                href="https://rayssags.github.io/pt/bio/"
                 />
     
     
@@ -214,19 +214,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/</loc>
+    <loc>https://rayssags.github.io/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/"
+                href="https://rayssags.github.io/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:4000/pt/"
+                href="https://rayssags.github.io/pt/"
                 />
     
     
@@ -256,19 +256,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/projects/</loc>
+    <loc>https://rayssags.github.io/en/projects/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/projects/"
+                href="https://rayssags.github.io/en/projects/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:4000/pt/projetos/"
+                href="https://rayssags.github.io/pt/projetos/"
                 />
     
     
@@ -294,19 +294,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/resources/</loc>
+    <loc>https://rayssags.github.io/en/resources/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/resources/"
+                href="https://rayssags.github.io/en/resources/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:4000/pt/resources/"
+                href="https://rayssags.github.io/pt/resources/"
                 />
     
     
@@ -338,19 +338,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/</loc>
+    <loc>https://rayssags.github.io/en/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/"
+                href="https://rayssags.github.io/en/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/redirects.json"
+                href="https://rayssags.github.io/redirects.json"
                 />
     
     
@@ -368,13 +368,13 @@
   
   
   <url>
-    <loc>http://localhost:4000/redirects.json</loc>
+    <loc>https://rayssags.github.io/redirects.json</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/redirects.json"
+                href="https://rayssags.github.io/redirects.json"
                 />
     
     
@@ -397,19 +397,19 @@
   
   
   <url>
-    <loc>http://localhost:4000/pt/escrita/</loc>
+    <loc>https://rayssags.github.io/pt/escrita/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:4000/pt/escrita/"
+                href="https://rayssags.github.io/pt/escrita/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/writing/"
+                href="https://rayssags.github.io/en/writing/"
                 />
     
     
@@ -437,13 +437,13 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/idl/</loc>
+    <loc>https://rayssags.github.io/en/idl/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/idl/"
+                href="https://rayssags.github.io/en/idl/"
                 />
     
     
@@ -463,13 +463,13 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/topcat/</loc>
+    <loc>https://rayssags.github.io/en/topcat/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/topcat/"
+                href="https://rayssags.github.io/en/topcat/"
                 />
     
     
@@ -489,25 +489,25 @@
   
   
   <url>
-    <loc>http://localhost:4000/en/pipeline/</loc>
+    <loc>https://rayssags.github.io/en/pipeline/</loc>
     
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/idl/"
+                href="https://rayssags.github.io/en/idl/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/topcat/"
+                href="https://rayssags.github.io/en/topcat/"
                 />
     
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:4000/en/pipeline/"
+                href="https://rayssags.github.io/en/pipeline/"
                 />
     
     
