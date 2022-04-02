@@ -5,7 +5,7 @@ title: Indicações
 permalink: /pt/resources/
 lang: pt
 toc: true
-last_modified_at:
+last_modified_at: 2022-04-01
 ---
 <style>
 figure {
@@ -48,8 +48,7 @@ object-fit: contain
 </style>
 
 <p style="display: inline; font-size: medium; font-style: italic">
-{{ site.data.academic_i18n.lastupdated[page.lang]}}{% include _i18n/date.html date=page.last_modified_at %}
-</p>
+{{ site.data.academic_i18n.lastupdated[page.lang]}}{% include _i18n/date.html date=page.last_modified_at %}</p>
 <b>
 
 Minha ideia com essa página é compilar algumas indicações de diferentes tipos (software, dicas de produtividade, divulgação de oportunidades e eventos, etc...) e escrever um pouco mais extensamente sobre o que eu uso no meu dia-a-dia de estudo e pesquisa.

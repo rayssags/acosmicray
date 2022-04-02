@@ -294,6 +294,7 @@ DEPENDENCIES
   academic
   github-pages
   jekyll-feed (~> 0.12)
+  jekyll-github-metadata
   jekyll-last-modified-at
   jekyll-redirect-from
   jekyll-toc
