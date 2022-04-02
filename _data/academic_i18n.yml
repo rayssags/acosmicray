@@ -1,3 +1,22 @@
+author:
+  pt: "Autora"
+  en: "Author"
+edited:
+  pt: "Editado"
+  en: "Edited"
+makecomment:
+  pt: "Faça um comentário"
+  en: "Post comment"
+comment:
+  pt: "Comentários"
+  en: "Comments"
+retrievecomment:
+  pt: "Não foi possível carregar os comentários, volte mais tarde."
+  en: "Unable to retrieve the comments for this posst, come back later."
+firstcomment:
+  pt: "Nada aqui ainda 👀 Seja o primeiro a comentar!"
+  en: "No comments yet 👀 Be the first to post!"
+  
 months:
   en: ["january", "february", "march", "april", "may", "june",
         "jule", "august", "september", "october", "november", "december" ]

@@ -103,3 +103,5 @@ defaults:
 #markdown: redcarpet
 #redcarpet:
 #  extensions: ["tables", "fenced_code_blocks", "autolink", "footnotes"]
+
+issues_repo: rayssags/acosmicray #https://www.aleksandrhovhannisyan.com/blog/jekyll-comment-system-github-issues/
