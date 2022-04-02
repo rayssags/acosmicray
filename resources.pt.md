@@ -6,7 +6,7 @@ permalink: /pt/resources/
 lang: pt
 toc: false
 last_modified_at: 2022-04-01
-comments_id: 3
+comments_id: 4
 issues_repo: rayssags/acosmicray
 
 ---

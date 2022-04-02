@@ -470,7 +470,7 @@ object-fit: contain
 <section id="comments">
   <div class="comment-actions">
     <h2>Comentários <span id="comments-count"></span></h2>
-    <a class="button" href="https://github.com/rayssags/acosmicray/issues/3">Faça um comentário</a>
+    <a class="button" href="https://github.com/rayssags/acosmicray/issues/4">Faça um comentário</a>
   </div>
   <div id="comments-wrapper">
     Loading...
@@ -500,7 +500,7 @@ commentsObserver.observe(commentsSection);
 const fetchComments = async () => {
   try {
     const comments = await (await fetch(
-      'https://api.github.com/repos/rayssags/acosmicray/issues/3/comments'
+      'https://api.github.com/repos/rayssags/acosmicray/issues/4/comments'
     )).json();
     initRenderComments(comments);
   } catch (e) {
