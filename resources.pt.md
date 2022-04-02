@@ -57,7 +57,6 @@ Eu tenho muitas indicações, mas nem sempre sobra tempo de escrever tudo, entã
 
 _Disclaimer_: em geral o que eu indico aqui é do ponto de vista de uma pessoa que usa Linux e Android e tem uma preferência pessoal por softwares livres e de código aberto gratuitos (também conhecidos como FOSS) ou com algum tipo de desconto estudantil. Existem diversas alternativas a tudo que eu vou mencionar aqui e você pode procurar por elas no [AlternativeTo](https://alternativeto.net/).
 
-
 * TOC
 {:toc}
 
