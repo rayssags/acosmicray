@@ -49,7 +49,7 @@ plugins:
   - jekyll-feed
   - jekyll-redirect-from
   - jekyll-toc
-  - jekyll-last-modified-at
+  #- jekyll-last-modified-at
   - jekyll-github-metadata
 
 # Optional. The default date format, used if none is specified in the tag.
