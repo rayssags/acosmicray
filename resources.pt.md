@@ -4,7 +4,7 @@ order: 0
 title: Indicações
 permalink: /pt/resources/
 lang: pt
-toc: true
+toc: false
 last_modified_at: 2022-04-01
 ---
 <style>
@@ -56,6 +56,10 @@ Minha ideia com essa página é compilar algumas indicações de diferentes tipo
 Eu tenho muitas indicações, mas nem sempre sobra tempo de escrever tudo, então volte com frequência à essa página e se atente à data de atualização. Meu objetivo no momento é escrever uma indicação por semana, mas vou publicar isso aqui "incompleto" porque o importante é a informação chegar a você :D
 
 _Disclaimer_: em geral o que eu indico aqui é do ponto de vista de uma pessoa que usa Linux e Android e tem uma preferência pessoal por softwares livres e de código aberto gratuitos (também conhecidos como FOSS) ou com algum tipo de desconto estudantil. Existem diversas alternativas a tudo que eu vou mencionar aqui e você pode procurar por elas no [AlternativeTo](https://alternativeto.net/).
+
+
+* TOC
+{:toc}
 
 
 # Organizadores de bibliografia
