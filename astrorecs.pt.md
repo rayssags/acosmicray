@@ -44,61 +44,47 @@ margin-bottom: -5px
 
 
 
-Minha ideia com essa página é compilar algumas indicações de diferentes tipos (software, dicas de produtividade, divulgação de oportunidades e eventos, etc...) e escrever um pouco mais extensamente sobre o que eu uso no meu dia-a-dia de estudo e pesquisa.
-
-_Disclaimer_: em geral o que eu indico aqui é do ponto de vista de uma pessoa que usa Linux e Android e tem uma preferência pessoal por softwares livres e de código aberto (também conhecidos como FOSS) gratuitos ou com algum tipo de desconto estudantil. Existem diversas alternativas e você pode procurar por elas no [AlternativeTo](https://alternativeto.net/).
+Minha ideia com essa página é compilar algumas indicações de diferentes tipos (software, dicas de produtividade, divulgação de oportunidades e eventos, etc...), no momento está só uma grande lista de indicações :|
 
 # Programas
 
-{% include image.html src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Zotero_logo.svg/320px-Zotero_logo.svg.png" %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-[Leia mais sobre o Zotero, suas extensões e como eu o tenho usado na Astronomia]()
-
-- TOPCAT: eu + vídeo do Mark
-- IDL-ish eu também
+- TOPCAT: [Vídeo do criador do TOPCAT](https://www.youtube.com/watch?v=YBMEZyoZMKw) + [meu guia](/acosmicray/pdf/TOPCAT_guide.pdf)
+- IDL: [Meu guia de IDL e programas específicos](/acosmicray/pdf/IDL_guide.pdf)
 - Aladin
-- SIMBAD
-    - Escola da sab
-    - Material da escola do OV espanhol
+- SIMBAD: [Escola do Observatório Virtual Espanhol](https://svo.cab.inta-csic.es/svoMeetings/index.php?mid=53&action=page&pagename=XIX_Escuela_SVO/Presentation)
 
 ## Arquivos e bases de dados
 
 - SIMBAD
 - SHA
 - IRSA
-- CASSIS -> tutoriais no YouTube
+- CASSIS
 - SDSS
 - Chandra
 - MAST
 - NED e a [busca por múltiplos alvos](https://ned.ipac.caltech.edu/forms/gmd.html)
 
-Sites;
-
-Astrobetter
-
-Astrobites
-
-Gradcafe
-
-Astrophysist girl
-
+## Sites;
+- Astrobetter
+- Astrobites
+- Gradcafe
+- Astrophysist girl
 # Eventos e oportunidades
 
-Aas
-Canadian
-O da França
+- [AAS](https://jobregister.aas.org/#PreDocGrad)
+- [Canadian Astronomy Data Centre](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/getMeetings.html?days=14&title=New%20entries%20added%20within%20the%20last%202%20weeks)
+- [Sciences Conf](https://www.sciencesconf.org/browse/list)
 
 
 ## Brasil
 
-- Escola de Inverno do Valongo
-- Escola de Inverno do ON
-- Ciclo de cursos especiais do ON
+- Escola de Inverno do Observatório do Valongo
+- Escola de Inverno do Observatório Nacional
+- Ciclo de Cursos Especiais do Observatório Nacional
 - Escola do CBPF
 - Semana da Física UFRJ
 - SAB
-- SIAC
+- SIAc
 
 ## Internacionais
 - IMPRS
@@ -107,24 +93,12 @@ O da França
 - LEAPS
 - Caltech
 
-Sites úteis
-
-Acronyms
-
-Planejamento de observação
-
-Site da eso
-
-Site dos gráficos
-
-
-# Bibliografia
-
-## Acadêmicos
+## Bibliografia
+### Acadêmicos
 - Maciel
 - Gastão
 - Curso sobre ISM
   
-## Divulgação
+### Divulgação
 
 <button id="myBtn"><a href="#"><b>&#10161;</b></a></button>

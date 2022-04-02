@@ -164,6 +164,6 @@ O Forest é vendido como um aplicativo que ajuda a manter o foco. Dependendo do 
 
 # Astroindicações
 
-Eu tenho diversas indicações específicas para Astronomia, mas ainda estou escrevendo. Fique de olho na página inicial do meu site que vou avisar assim que a seção estiver de pé!
+Eu tenho diversas indicações específicas para Astronomia, mas ainda estou escrevendo. Fique de olho na página inicial do meu site que vou avisar assim que a seção estiver de pé! Por enquanto as indicações em forma de lista estão [aqui](https://rayssags.github.io/acosmicray/pt/astrorecs/).
 
 <button id="myBtn"><a href="#"><b>&#10161;</b></a></button>
