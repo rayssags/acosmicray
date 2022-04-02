@@ -5,7 +5,7 @@ title: Indicações
 permalink: /pt/resources/
 lang: pt
 toc: false
-last_modified_at: 2022-04-01
+last_modified_at:
 ---
 <style>
 figure {
