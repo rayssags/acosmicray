@@ -48,8 +48,9 @@ remote_theme: rayssags/acosmicray
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
-  - gem 'jekyll-toc'
+  - jekyll-toc
   - jekyll-last-modified-at
+  - jekyll-github-metadata
 
 # Optional. The default date format, used if none is specified in the tag.
 last-modified-at:
