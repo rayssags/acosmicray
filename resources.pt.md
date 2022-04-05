@@ -144,7 +144,7 @@ Quem nunca passou pela situação de precisar de alguns dados que só estavam di
 
 Antes que eu me alongue falando sobre Git, vale a pena olhar esse [link](https://kenzie.com.br/blog/o-que-e-git/) que discute Git e GitHub. De maneira muito ampla, o Git é um sistema de controle de versionamento. Isso quer dizer que ele permite que você versione --- i.e., crie um histórico personalizado --- de algum projeto ou conjunto de arquivos. Entretanto, além disso, o Git permite que você explore desenvolvimento em paralelo e/ou em conjunto desses projetos através dos _branches_.
 <p style="text-align: center">
-<img src="https://coderefinery.org/git-intro-stockholm/img/octopus.jpeg" style="width: 80%" caption="">
+<img src="https://coderefinery.github.io/git-intro-stockholm/img/octopus.jpeg" style="width: 80%" caption="">
 </p>
 
 Se você quer saber mais sobre como usar o Git, recomendo [o curso do Software Carpentry](https://swcarpentry.github.io/git-novice/).
@@ -162,6 +162,11 @@ Para terminar a indicação, o maior aspecto do GitHub é a sua capacidade de co
 {% include image.html src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" %}
 
 Seria um crime falar de produtividade e não citar o Notion. Para aqueles que usam Evernote, Trello, ClickUp e afins, eu considero o Notion uma alternativa extremamente forte a todos eles, pois ele oferece muitas funcionalidades: escrita em Markdown, anexos de diversos tipos, suporte a KaTeX, bases de dados internas que podem ser referidas por diversas páginas diferentes, [plugin com o Zotero](https://github.com/dvanoni/notero) caso você goste de fazer notas separadas da fonte bibliográfica, uma comunidade super ativa que oferece diversos templates, diversas funcionalidaes para times... E o melhor de tudo? O [Notion tem um plano estudantil](https://www.notion.so/product/notion-for-education). Recomendo muito testar. 
+
+{% include image.html src="https://notion-enhancer.github.io/media/animated.gif" %}
+
+Apesar de não ter uma versão para Linux, existe o [Notion Enhancer](https://notion-enhancer.github.io/) que além de oferecer suporte para o Notion em diversas plataformas, também permite instalar uma versão "melhorada" na qual você pode modificar vários detalhes e deixar sua experiência de uso melhor ainda :D
+
 
 ## Forest
 {% include image.html src="https://www.forestapp.cc/img/icon.png" %}
